@@ -1,0 +1,15 @@
+body{
+    padding:0;
+    margin:0;
+}
+.header{
+    height:20vh;
+    background:#24305E;
+    display:flex;
+    color:white;
+    font-size:26px;
+    padding:3%;
+}
+.navbar-header{
+    display:flex;
+}
